@@ -1,1 +1,1 @@
-# morrowind-cosmic-tools
+# Cosmic's Tools
